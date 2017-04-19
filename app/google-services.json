@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336511597282",
+    "firebase_url": "https://driver-ojekita.firebaseio.com",
+    "project_id": "driver-ojekita",
+    "storage_bucket": "driver-ojekita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336511597282:android:fececf099f674dca",
+        "android_client_info": {
+          "package_name": "com.wensoft.driverojekita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336511597282-7rojtppu0ul3si724k4dad4hhfhqa6hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wensoft.driverojekita",
+            "certificate_hash": "35c1872f651339cf84277afadbf21866ce7b6202"
+          }
+        },
+        {
+          "client_id": "336511597282-qr9ick4t92ecg9p39ebslh98lu9gpsuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8_6oP6j_aLNqllBJlGGCDbo4RONymvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336511597282-qr9ick4t92ecg9p39ebslh98lu9gpsuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
